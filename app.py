@@ -4,6 +4,10 @@ from bbquote.lib import get_quote
 
 "let's get some quotes from breaking bad"
 
+"let's get some quotes from breaking bad"
+
+"let's get some quotes from breaking bad"
+
 
 if st.button("Get quote"):
     quote = get_quote()
